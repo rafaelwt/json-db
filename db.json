@@ -1,28 +1,25 @@
 {
-	cursos: [
+  "cursos": [
     {
-      id: 1,
-      title: "React desde Cero",
-      image:
-        "https://res.cloudinary.com/edteam/image/upload/v1582956135/GraphQL_desde_cero-v09.png",
-      price: "30 USD",
-      profesor: "Perez Juan"
+      "id": 1,
+      "title": "React desde Cero",
+      "image": "https://res.cloudinary.com/edteam/image/upload/v1582956135/GraphQL_desde_cero-v09.png",
+      "price": "30 USD",
+      "profesor": "Perez Juan"
     },
     {
-      id: 2,
-      title: "Curso Go",
-      image:
-        "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2020-03/Go-desde-cero.png",
-      price: "55 USD",
-      profesor: "Maria Soliz"
+      "id": 2,
+      "title": "Curso Go",
+      "image": "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2020-03/Go-desde-cero.png",
+      "price": "55 USD",
+      "profesor": "Maria Soliz"
     },
     {
-      id: 3,
-      title: "Angular 9",
-      image:
-        "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2019-08/angular.png",
-      price: "105 USD",
-      profesor: "Luis Aviles"
+      "id": 3,
+      "title": "Angular 9",
+      "image": "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2019-08/angular.png",
+      "price": "105 USD",
+      "profesor": "Luis Aviles"
     }
   ]
 }
